@@ -1,2 +1,1 @@
-# AWS-command
-# AWS-command
+## List of how to create something on AWS
